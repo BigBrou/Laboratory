@@ -1,0 +1,6 @@
+C:\Laboratory\CSharpK\Part3\SOperator\SOperator\bin\Debug\SOperator.exe.config
+C:\Laboratory\CSharpK\Part3\SOperator\SOperator\bin\Debug\SOperator.exe
+C:\Laboratory\CSharpK\Part3\SOperator\SOperator\bin\Debug\SOperator.pdb
+C:\Laboratory\CSharpK\Part3\SOperator\SOperator\obj\Debug\SOperator.csprojResolveAssemblyReference.cache
+C:\Laboratory\CSharpK\Part3\SOperator\SOperator\obj\Debug\SOperator.exe
+C:\Laboratory\CSharpK\Part3\SOperator\SOperator\obj\Debug\SOperator.pdb

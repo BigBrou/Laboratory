@@ -1,0 +1,6 @@
+C:\Laboratory\CSharpK\Part4\MethodAndParameter\MethodAndParameter\bin\Debug\MethodAndParameter.exe.config
+C:\Laboratory\CSharpK\Part4\MethodAndParameter\MethodAndParameter\bin\Debug\MethodAndParameter.exe
+C:\Laboratory\CSharpK\Part4\MethodAndParameter\MethodAndParameter\bin\Debug\MethodAndParameter.pdb
+C:\Laboratory\CSharpK\Part4\MethodAndParameter\MethodAndParameter\obj\Debug\MethodAndParameter.csprojResolveAssemblyReference.cache
+C:\Laboratory\CSharpK\Part4\MethodAndParameter\MethodAndParameter\obj\Debug\MethodAndParameter.exe
+C:\Laboratory\CSharpK\Part4\MethodAndParameter\MethodAndParameter\obj\Debug\MethodAndParameter.pdb

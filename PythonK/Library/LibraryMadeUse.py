@@ -1,0 +1,3 @@
+import LibraryUseExternal
+
+print(LibraryMakeExternal)

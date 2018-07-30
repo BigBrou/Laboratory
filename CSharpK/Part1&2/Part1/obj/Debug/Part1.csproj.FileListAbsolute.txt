@@ -1,0 +1,9 @@
+C:\Laboratory\CSharpK\Part1\Part1\bin\Debug\Part1.exe.config
+C:\Laboratory\CSharpK\Part1\Part1\obj\Debug\Part1.csprojResolveAssemblyReference.cache
+C:\Laboratory\CSharpK\Part1\Part1\bin\Debug\Part1.exe
+C:\Laboratory\CSharpK\Part1\Part1\bin\Debug\Part1.pdb
+C:\Laboratory\CSharpK\Part1\Part1\obj\Debug\Part1.exe
+C:\Laboratory\CSharpK\Part1\Part1\obj\Debug\Part1.pdb
+C:\Laboratory\CSharpK\Part1&2\Part1\bin\Debug\Part1.exe.config
+C:\Laboratory\CSharpK\Part1&2\Part1\obj\Debug\Part1.exe
+C:\Laboratory\CSharpK\Part1&2\Part1\obj\Debug\Part1.pdb
