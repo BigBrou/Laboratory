@@ -1,0 +1,39 @@
+38. 예외 처리 사용하기
+  - 예외는 코드 실행 중 발생하는 에러를 처리하는 것
+
+  예외처리
+    - try except 로 사용하여 예외처리
+    - 특정 예외만 처리를 할 수 있다
+    - except 예외 as e 로 에러발생 사유를 알 수 있음
+
+  예외처리 부가
+    - else
+        에러가 발생하지 않는 경우, else를 통해서 코드를 실행할 수 있음
+        이 때 except를 제외할 수는 없음
+
+    - finally
+        에러의 발생과 관계없이 다음에 실행해주는 역할
+
+    try:
+    except:
+    else:
+    finally:
+
+ 임의의 예외 발생
+    - raise
+        raise 를 이용하여 임의의 예외를 발생시킬 수 있음
+        ex) raise Exception('')
+        raise 뒤의 예외는 추후 except 뒤의 예외와 예외성질이 동일해야 함
+        또한, raise 는 재발생 시킬 수 있음
+        재발생하는 raise는 다른 예외성질을 쓸 수 있음
+
+    - assert
+        지정된 조건식이 거짓일 때 AssertionError 예외 발생
+        ex) assert 조건식
+        ex) assert 조건식, 에러메시지
+        디버깅 모드에서만 실행됨!!
+        assert x % 3 == 0
+
+ 예외 만들기
+    - Exception을 상속받아서 새로운 클래스를 생성
+    
