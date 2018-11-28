@@ -24,3 +24,10 @@ num *= 20
 num /= 5
 num //= 2
 print(num)
+
+#
+import sys
+print(sys.getrefcount(10000))
+a = 10000
+print(sys.getrefcount(10000))
+print(sys.getrefcount(a))
