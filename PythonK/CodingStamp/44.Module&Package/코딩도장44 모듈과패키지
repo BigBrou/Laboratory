@@ -1,0 +1,52 @@
+44. 모듈과 패키지 사용하기
+
+  모듈(Module)
+    - 모듈은 각종 변수, 함수, 클래스를 담고 있는 파일
+
+    - 모듈 불러오기
+        = import 모듈
+        = import 모듈1, 모듈2 ...
+
+    - 모듈은 as로 alias를 줄 수 있음
+        = import 모듈 as m
+        = from 모듈 import 모듈.변수 as mv
+        = from 모듈 import 모듈.변수1 as mv1, 모듈.변수2 as mv2
+
+    - 모듈의 일부만 불러오기
+        = from 모듈 import 변수, 함수, 클래스 등
+    - 모듈의 전체를 불러오기
+        = from 모듈 import *
+
+    - 모듈의 해제
+        = 변수의 해제처럼 del을 사용하면 모듈을 해제할 수 있음
+          import math
+          del math
+          importlib.reload(math) //다시 가져오려면 reload를 써야 함.
+
+
+  패키지(Package)
+    - 패키지는 여러 모듈을 묶어 놓은 것
+
+    - 패키지 불러오기
+        = import 패키지
+
+        = import 패키지.모듈
+        = from 패키지 import 모듈
+        = import 패키지.모듈1, 패키지.모듈2
+
+    - 패키지 일부만 불러오기
+       = import 패키지.모듈
+       = from 패키지.모듈 import 변수, 함수, 클래스
+    - 패키지 전부를 불러오기
+       = from 패키지.모듈 import *
+
+
+  파이썬 표준 라이브러리(Python Standard Library[PSL])
+    - 파이썬에서 기본으로 설치된 모듈과 패키지, 내장 함수를 묶은 라이브러리
+
+  파이썬 패키지 인덱스(PyPI)
+    - pip 는 파이선 패키지 인덱스를 말하며 패키지의 관리를 돕는 역할을 함
+       = pip install (패키지명)
+       = pip search (패키지명)  //설치된 패키지 정보를 확인
+       = pip list              //설치된 패키지 리스트
+       = pip uninstall
